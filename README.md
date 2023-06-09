@@ -17,3 +17,4 @@ multiple IMAGEs)
 A search bar where a user can type and search for the products and it should show
 the results
 Timeline – 2 days# divisha-back-end
+# divisha-front-end
